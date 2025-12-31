@@ -3,3 +3,4 @@ set -euo pipefail
 #It shows the line executing
 set -x
 ls
+pwd
