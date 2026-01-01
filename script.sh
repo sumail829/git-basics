@@ -4,3 +4,5 @@ set -euo pipefail
 set -x
 ls
 pwd
+ls -al
+
