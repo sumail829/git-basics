@@ -5,4 +5,4 @@ set -x
 ls
 pwd
 ls -al
-
+ls -aS
